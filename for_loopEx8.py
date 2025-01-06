@@ -1,4 +1,4 @@
-"""n = int(input("enter number: "))
+n = int(input("enter number: "))
 if (n<=0):
     print("enter vallid value")
 else:
@@ -6,7 +6,9 @@ else:
 for i in range (1,n+1):
     prod = prod*i
 else:
-    print(f"prod of {n}= {prod}")"""
+    print(f"prod of {n}= {prod}")
+
+print("-"*50)
 
 line = input("Enter a line of text: ")
 print(f"Given line = {line}")
