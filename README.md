@@ -13,6 +13,9 @@ fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     print(fruit)
 
+
+
+# while loop
 counter = 0
 while counter < 5:
     print(f"Counter is {counter}")
