@@ -5,3 +5,4 @@ for w in word:
 else:
     #print(word)
     print("*"*50)
+
